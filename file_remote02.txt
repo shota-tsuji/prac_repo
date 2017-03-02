@@ -1,0 +1,1 @@
+This file is for practicing with "git pull <remote>" command. 
